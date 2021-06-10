@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">android-facebookmessenger-clone</string>
     <string name="header">Messenger</string>
+    <string name="welcome">Welcome</string>
 </resources>
